@@ -1,0 +1,1 @@
+# Dynamic_weighted_optimization_function_for_redirecting_AR_interactions
